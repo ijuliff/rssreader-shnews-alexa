@@ -1,7 +1,7 @@
 /**
 * App ID for the skill
 */
-var APP_ID = "YOUR_ALEXA_SKILL_ID_HERE";
+var APP_ID = "GetSHNews";
 
 var AlexaSkill = require('./AlexaSkill');
 var parser = require('rss-parser');
